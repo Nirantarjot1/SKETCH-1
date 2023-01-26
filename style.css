@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+}
+
+h1{
+    font-size: 50px;
+}
+
+#score{
+    margin-left: 10px;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#timer{
+    margin-right: 30px;
+    float: right;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+canvas{
+    border-radius: 10px;
+}
+
+@keyframes example {
+
+    from {box-shadow: 1px 1px 38px grey;}
+    to {box-shadow: 1px 1px 38px white;}
+  
+  }
+
